@@ -1,5 +1,5 @@
 ### Hi there, Where BrooksMoney 👋
-
+### I participate as a validator in mainnets and testnets of such networks as cosmos, polkadot, as well as other unique blockchains.
 <!--
 **brooksmillioner/brooksmillioner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
