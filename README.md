@@ -1,9 +1,12 @@
 ### Hi there, My name is BrooksMoney 👋
 ### I participate as a validator in mainnets and testnets of such networks as cosmos, polkadot, as well as other unique blockchains. Active since February 2022.
 
+
 ### Testnets: Aptos, Masa Finance, Minima, Massa, Humanode, Celestia, SubSpace, Gear, StarkNet, Meson Network, Iron Fish, Quai Nework.
 
+
 ### Closed testnets: Ronin Network.
+
 
 ### Mainets: soon...
 <!--
