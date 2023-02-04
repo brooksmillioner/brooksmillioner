@@ -3,6 +3,7 @@
 
 ### Testnets: Aptos, Masa Finance, Minima, Massa, Humanode, Celestia, SubSpace, Gear, StarkNet, Meson Network, Iron Fish, Quai Nework.
 
+### Closed testnets: Ronin Network.
 
 ### Mainets: soon...
 <!--
