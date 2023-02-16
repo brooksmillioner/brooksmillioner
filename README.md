@@ -7,6 +7,12 @@
   <a href="https://twitter.com/brooksmoneytop">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://t.me/blogbrooksmoney">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt "Telegram Badge"/>
+  </a>
+  <a href="Yarik#8352">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt "Discord Badge"/>
+  </a>
 </div>
 
 I participate as a validator in mainnets and testnets of such networks as cosmos, polkadot, as well as other unique blockchains. Active since February 2022.
