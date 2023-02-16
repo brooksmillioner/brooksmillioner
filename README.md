@@ -15,7 +15,7 @@ Mainets: soon...
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brooksmillioner&theme=modern-lilac&disable_animations=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
 ---
 <div id="badges">
   <a href="https://www.youtube.com/@brooksmoney9765">
