@@ -9,16 +9,16 @@
   </a>
 </div>
 
-### I participate as a validator in mainnets and testnets of such networks as cosmos, polkadot, as well as other unique blockchains. Active since February 2022.
+I participate as a validator in mainnets and testnets of such networks as cosmos, polkadot, as well as other unique blockchains. Active since February 2022.
 
 
-### Testnets: Aptos, Masa Finance, Minima, Massa, Humanode, Celestia, SubSpace, Gear, StarkNet, Meson Network, Iron Fish, Quai Nework.
+Testnets: Aptos, Masa Finance, Minima, Massa, Humanode, Celestia, SubSpace, Gear, StarkNet, Meson Network, Iron Fish, Quai Nework.
 
 
-### Private testnets: Ronin Network.
+Private testnets: Ronin Network.
 
 
-### Mainets: soon...
+Mainets: soon...
 
 <img src="https://komarev.com/ghpvc/?username=brooksmillioner&style=flat-square&color=blue" alt=""/>
 <!--
