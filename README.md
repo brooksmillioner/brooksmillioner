@@ -5,11 +5,12 @@
 <strong>I participate as a validator in mainnets and testnets of such networks as cosmos, as well as other unique blockchains. Active since February 2022.
 
 
-Testnets: Aptos, Masa Finance, Minima, Massa, Humanode, SubSpace, Gear, StarkNet, Meson Network, Iron Fish, Quai Nework, Gaganode, Elixir, 0L Network, Shardeum, Namada, Bundlr, Taiko.
+Testnets: Aptos, Masa Finance, Minima, Massa, Humanode, SubSpace, Gear, StarkNet, Meson Network, Iron Fish, Quai Nework, Gaganode, Elixir, 0L Network, Shardeum, Namada, Bundlr, Taiko, KOII.
 
 
 Private testnets: Ronin Network.
 
+RPC Node: Holesky.
 
 Mainets: soon...</strong>
 
